@@ -3,4 +3,9 @@
 
 # <center>**主页**</center>
 
-![项目演示截图](assets/mmexport1791986955349.jpg)
+在主页，可以直接点击模型进行聊天
+
+On the homepage, you can directly click on the model to chat.
+
+
+![项目演示截图](mmexport1791986955349.jpg)
